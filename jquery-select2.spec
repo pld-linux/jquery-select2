@@ -2,7 +2,7 @@
 Summary:	A jQuery based replacement for select boxes
 Name:		jquery-%{plugin}
 Version:	3.5.1
-Release:	1
+Release:	2
 License:	Apache v2.0 or GPL v2
 Group:		Applications/WWW
 Source0:	https://github.com/ivaynberg/select2/archive/%{version}/%{plugin}-%{version}.tar.gz
